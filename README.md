@@ -1,5 +1,9 @@
 # Apache Hadoop 2.7.1 Docker image
 
+Fork to update the java version to java 8, visit the original repository [sequenceiq/hadoop-docker](https://github.com/sequenceiq/hadoop-docker)
+
+---
+
 [![DockerPulls](https://img.shields.io/docker/pulls/sequenceiq/hadoop-docker.svg)](https://registry.hub.docker.com/u/sequenceiq/hadoop-docker/)
 [![DockerStars](https://img.shields.io/docker/stars/sequenceiq/hadoop-docker.svg)](https://registry.hub.docker.com/u/sequenceiq/hadoop-docker/)
 
